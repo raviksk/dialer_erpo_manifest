@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="indusdialer" fetch="git@github.com:indusos" />
+	<remote name="indusdialer" fetch="https://github.com/indusos" />
 	<project path="indusos/Dialer" name="Dialer" revision="origin/mediatek_6.0_unite4_indusos" remote="indusdialer"/>
 	<project path="indusos/Contacts" name="Contacts" revision="origin/mediatek_6.0_unite4_indusos" remote="indusdialer"/>
 	<project path="indusos/ContactsCommon" name="ContactsCommon" revision="origin/mediatek_6.0_unite4_base" remote="indusdialer"/>
-	<project path="indusos/InCallUI" name="InCallUI" revision="origin/Unite4_IDH_source" remote="indusdialer"/>
 </manifest>
 
