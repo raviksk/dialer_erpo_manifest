@@ -10,7 +10,6 @@ chmod 777 repo
 ./repo sync
 ./repo start riba --all
 
-cp -R indusos $path
 
 cd $path
 
