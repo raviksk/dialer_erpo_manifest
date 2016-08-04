@@ -1,2 +1,2 @@
 # dialer_erpo_manifest
-testing
+Release for unite4 version 1000 15/06/2016
