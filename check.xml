@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="indusdialer" fetch="https://github.com/indusos" />
+	<project path="InCallUI" name="InCallUI" revision="264e57168aa32faa5c3390c9c7f159e21f8ef47b" remote="indusdialer"/>
+</manifest>
+
